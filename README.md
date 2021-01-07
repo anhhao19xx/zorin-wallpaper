@@ -1,6 +1,6 @@
 # Dynamic Wallpaper
 
-_Dynamic waller for Zonrin OS_
+_Dynamic wallpaper for Zonrin OS_
 
 ## Usage
 
